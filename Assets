@@ -2,3 +2,7 @@
   uses: alexellis/upload-assets@0.2.3
 - name: Assets sync
   uses: at-wat/assets-sync-action@v0.6.0
+- name: Publish all release assets
+  uses: boxpositron/upload-multiple-releases@1.0.5
+- name: Upload Multiple Release Assets
+  uses: NBTX/upload-release-assets@v1
