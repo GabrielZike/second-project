@@ -1,2 +1,4 @@
 - name: Upload Release Assets
   uses: alexellis/upload-assets@0.2.3
+- name: Assets sync
+  uses: at-wat/assets-sync-action@v0.6.0
